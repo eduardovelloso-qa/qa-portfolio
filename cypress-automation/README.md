@@ -1,5 +1,7 @@
 # Cypress Automation — QA Portfolio
 
+[![Cypress Tests](https://github.com/eduardovelloso-qa/qa-portfolio/actions/workflows/cypress.yml/badge.svg)](https://github.com/eduardovelloso-qa/qa-portfolio/actions/workflows/cypress.yml)
+
 Suite de testes end-to-end construída com **Cypress + TypeScript**, testando o site público [automationexercise.com](https://automationexercise.com).
 
 ## Stack

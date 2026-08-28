@@ -1,0 +1,10 @@
+{
+  "valid": {
+    "email": "eduteste@gmail.com",
+    "password": "12345"
+  },
+  "invalid": {
+    "email": "naoexiste@teste.com",
+    "password": "senhaerrada123"
+  }
+}
